@@ -1,6 +1,6 @@
-# MyFirstApp
+# Angular Recipe Book
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This project is a an angualar app bulid on top og Angular 6.
 
 ## Development server
 
